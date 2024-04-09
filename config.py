@@ -10,7 +10,10 @@ class Config(object):
 
     SECRET_KEY = 'pianalytix'
 
-    UPLOADS = "/home/username/app/app/static/uploads"
+    UPLOADS = "/Users/rev.dr.sylviablessings/app/app/static/uploads"
+
+
+# "/home/username/app/app/static/uploads"
 
     SESSION_COOKIE_SECURE = True
     DEFAULT_THEME = None
